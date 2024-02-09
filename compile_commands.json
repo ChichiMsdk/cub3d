@@ -1,0 +1,878 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-g",
+      "-I",
+      ".",
+      "-c",
+      "-o",
+      "ft_isalpha.o",
+      "ft_isalpha.c"
+    ],
+    "directory": "/home/chichi/proj/cub3d/include/libft",
+    "file": "/home/chichi/proj/cub3d/include/libft/ft_isalpha.c",
+    "output": "/home/chichi/proj/cub3d/include/libft/ft_isalpha.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-g",
+      "-I",
+      ".",
+      "-c",
+      "-o",
+      "ft_memchr.o",
+      "ft_memchr.c"
+    ],
+    "directory": "/home/chichi/proj/cub3d/include/libft",
+    "file": "/home/chichi/proj/cub3d/include/libft/ft_memchr.c",
+    "output": "/home/chichi/proj/cub3d/include/libft/ft_memchr.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-g",
+      "-I",
+      ".",
+      "-c",
+      "-o",
+      "ft_memset.o",
+      "ft_memset.c"
+    ],
+    "directory": "/home/chichi/proj/cub3d/include/libft",
+    "file": "/home/chichi/proj/cub3d/include/libft/ft_memset.c",
+    "output": "/home/chichi/proj/cub3d/include/libft/ft_memset.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-g",
+      "-I",
+      ".",
+      "-c",
+      "-o",
+      "ft_strlen.o",
+      "ft_strlen.c"
+    ],
+    "directory": "/home/chichi/proj/cub3d/include/libft",
+    "file": "/home/chichi/proj/cub3d/include/libft/ft_strlen.c",
+    "output": "/home/chichi/proj/cub3d/include/libft/ft_strlen.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-g",
+      "-I",
+      ".",
+      "-c",
+      "-o",
+      "ft_tolower.o",
+      "ft_tolower.c"
+    ],
+    "directory": "/home/chichi/proj/cub3d/include/libft",
+    "file": "/home/chichi/proj/cub3d/include/libft/ft_tolower.c",
+    "output": "/home/chichi/proj/cub3d/include/libft/ft_tolower.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-g",
+      "-I",
+      ".",
+      "-c",
+      "-o",
+      "ft_strrchr.o",
+      "ft_strrchr.c"
+    ],
+    "directory": "/home/chichi/proj/cub3d/include/libft",
+    "file": "/home/chichi/proj/cub3d/include/libft/ft_strrchr.c",
+    "output": "/home/chichi/proj/cub3d/include/libft/ft_strrchr.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-g",
+      "-I",
+      ".",
+      "-c",
+      "-o",
+      "ft_atoi.o",
+      "ft_atoi.c"
+    ],
+    "directory": "/home/chichi/proj/cub3d/include/libft",
+    "file": "/home/chichi/proj/cub3d/include/libft/ft_atoi.c",
+    "output": "/home/chichi/proj/cub3d/include/libft/ft_atoi.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-g",
+      "-I",
+      ".",
+      "-c",
+      "-o",
+      "ft_isascii.o",
+      "ft_isascii.c"
+    ],
+    "directory": "/home/chichi/proj/cub3d/include/libft",
+    "file": "/home/chichi/proj/cub3d/include/libft/ft_isascii.c",
+    "output": "/home/chichi/proj/cub3d/include/libft/ft_isascii.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-g",
+      "-I",
+      ".",
+      "-c",
+      "-o",
+      "ft_memcmp.o",
+      "ft_memcmp.c"
+    ],
+    "directory": "/home/chichi/proj/cub3d/include/libft",
+    "file": "/home/chichi/proj/cub3d/include/libft/ft_memcmp.c",
+    "output": "/home/chichi/proj/cub3d/include/libft/ft_memcmp.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-g",
+      "-I",
+      ".",
+      "-c",
+      "-o",
+      "ft_strchr.o",
+      "ft_strchr.c"
+    ],
+    "directory": "/home/chichi/proj/cub3d/include/libft",
+    "file": "/home/chichi/proj/cub3d/include/libft/ft_strchr.c",
+    "output": "/home/chichi/proj/cub3d/include/libft/ft_strchr.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-g",
+      "-I",
+      ".",
+      "-c",
+      "-o",
+      "ft_strncmp.o",
+      "ft_strncmp.c"
+    ],
+    "directory": "/home/chichi/proj/cub3d/include/libft",
+    "file": "/home/chichi/proj/cub3d/include/libft/ft_strncmp.c",
+    "output": "/home/chichi/proj/cub3d/include/libft/ft_strncmp.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-g",
+      "-I",
+      ".",
+      "-c",
+      "-o",
+      "ft_toupper.o",
+      "ft_toupper.c"
+    ],
+    "directory": "/home/chichi/proj/cub3d/include/libft",
+    "file": "/home/chichi/proj/cub3d/include/libft/ft_toupper.c",
+    "output": "/home/chichi/proj/cub3d/include/libft/ft_toupper.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-g",
+      "-I",
+      ".",
+      "-c",
+      "-o",
+      "ft_bzero.o",
+      "ft_bzero.c"
+    ],
+    "directory": "/home/chichi/proj/cub3d/include/libft",
+    "file": "/home/chichi/proj/cub3d/include/libft/ft_bzero.c",
+    "output": "/home/chichi/proj/cub3d/include/libft/ft_bzero.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-g",
+      "-I",
+      ".",
+      "-c",
+      "-o",
+      "ft_isdigit.o",
+      "ft_isdigit.c"
+    ],
+    "directory": "/home/chichi/proj/cub3d/include/libft",
+    "file": "/home/chichi/proj/cub3d/include/libft/ft_isdigit.c",
+    "output": "/home/chichi/proj/cub3d/include/libft/ft_isdigit.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-g",
+      "-I",
+      ".",
+      "-c",
+      "-o",
+      "ft_memcpy.o",
+      "ft_memcpy.c"
+    ],
+    "directory": "/home/chichi/proj/cub3d/include/libft",
+    "file": "/home/chichi/proj/cub3d/include/libft/ft_memcpy.c",
+    "output": "/home/chichi/proj/cub3d/include/libft/ft_memcpy.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-g",
+      "-I",
+      ".",
+      "-c",
+      "-o",
+      "ft_strlcat.o",
+      "ft_strlcat.c"
+    ],
+    "directory": "/home/chichi/proj/cub3d/include/libft",
+    "file": "/home/chichi/proj/cub3d/include/libft/ft_strlcat.c",
+    "output": "/home/chichi/proj/cub3d/include/libft/ft_strlcat.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-g",
+      "-I",
+      ".",
+      "-c",
+      "-o",
+      "ft_strnstr.o",
+      "ft_strnstr.c"
+    ],
+    "directory": "/home/chichi/proj/cub3d/include/libft",
+    "file": "/home/chichi/proj/cub3d/include/libft/ft_strnstr.c",
+    "output": "/home/chichi/proj/cub3d/include/libft/ft_strnstr.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-g",
+      "-I",
+      ".",
+      "-c",
+      "-o",
+      "ft_isalnum.o",
+      "ft_isalnum.c"
+    ],
+    "directory": "/home/chichi/proj/cub3d/include/libft",
+    "file": "/home/chichi/proj/cub3d/include/libft/ft_isalnum.c",
+    "output": "/home/chichi/proj/cub3d/include/libft/ft_isalnum.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-g",
+      "-I",
+      ".",
+      "-c",
+      "-o",
+      "ft_isprint.o",
+      "ft_isprint.c"
+    ],
+    "directory": "/home/chichi/proj/cub3d/include/libft",
+    "file": "/home/chichi/proj/cub3d/include/libft/ft_isprint.c",
+    "output": "/home/chichi/proj/cub3d/include/libft/ft_isprint.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-g",
+      "-I",
+      ".",
+      "-c",
+      "-o",
+      "ft_memmove.o",
+      "ft_memmove.c"
+    ],
+    "directory": "/home/chichi/proj/cub3d/include/libft",
+    "file": "/home/chichi/proj/cub3d/include/libft/ft_memmove.c",
+    "output": "/home/chichi/proj/cub3d/include/libft/ft_memmove.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-g",
+      "-I",
+      ".",
+      "-c",
+      "-o",
+      "ft_strlcpy.o",
+      "ft_strlcpy.c"
+    ],
+    "directory": "/home/chichi/proj/cub3d/include/libft",
+    "file": "/home/chichi/proj/cub3d/include/libft/ft_strlcpy.c",
+    "output": "/home/chichi/proj/cub3d/include/libft/ft_strlcpy.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-g",
+      "-I",
+      ".",
+      "-c",
+      "-o",
+      "ft_calloc.o",
+      "ft_calloc.c"
+    ],
+    "directory": "/home/chichi/proj/cub3d/include/libft",
+    "file": "/home/chichi/proj/cub3d/include/libft/ft_calloc.c",
+    "output": "/home/chichi/proj/cub3d/include/libft/ft_calloc.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-g",
+      "-I",
+      ".",
+      "-c",
+      "-o",
+      "ft_strdup.o",
+      "ft_strdup.c"
+    ],
+    "directory": "/home/chichi/proj/cub3d/include/libft",
+    "file": "/home/chichi/proj/cub3d/include/libft/ft_strdup.c",
+    "output": "/home/chichi/proj/cub3d/include/libft/ft_strdup.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-g",
+      "-I",
+      ".",
+      "-c",
+      "-o",
+      "ft_strcmp.o",
+      "ft_strcmp.c"
+    ],
+    "directory": "/home/chichi/proj/cub3d/include/libft",
+    "file": "/home/chichi/proj/cub3d/include/libft/ft_strcmp.c",
+    "output": "/home/chichi/proj/cub3d/include/libft/ft_strcmp.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-g",
+      "-I",
+      ".",
+      "-c",
+      "-o",
+      "ft_itoa.o",
+      "ft_itoa.c"
+    ],
+    "directory": "/home/chichi/proj/cub3d/include/libft",
+    "file": "/home/chichi/proj/cub3d/include/libft/ft_itoa.c",
+    "output": "/home/chichi/proj/cub3d/include/libft/ft_itoa.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-g",
+      "-I",
+      ".",
+      "-c",
+      "-o",
+      "ft_putchar_fd.o",
+      "ft_putchar_fd.c"
+    ],
+    "directory": "/home/chichi/proj/cub3d/include/libft",
+    "file": "/home/chichi/proj/cub3d/include/libft/ft_putchar_fd.c",
+    "output": "/home/chichi/proj/cub3d/include/libft/ft_putchar_fd.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-g",
+      "-I",
+      ".",
+      "-c",
+      "-o",
+      "ft_putendl_fd.o",
+      "ft_putendl_fd.c"
+    ],
+    "directory": "/home/chichi/proj/cub3d/include/libft",
+    "file": "/home/chichi/proj/cub3d/include/libft/ft_putendl_fd.c",
+    "output": "/home/chichi/proj/cub3d/include/libft/ft_putendl_fd.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-g",
+      "-I",
+      ".",
+      "-c",
+      "-o",
+      "ft_putnbr_fd.o",
+      "ft_putnbr_fd.c"
+    ],
+    "directory": "/home/chichi/proj/cub3d/include/libft",
+    "file": "/home/chichi/proj/cub3d/include/libft/ft_putnbr_fd.c",
+    "output": "/home/chichi/proj/cub3d/include/libft/ft_putnbr_fd.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-g",
+      "-I",
+      ".",
+      "-c",
+      "-o",
+      "ft_putstr_fd.o",
+      "ft_putstr_fd.c"
+    ],
+    "directory": "/home/chichi/proj/cub3d/include/libft",
+    "file": "/home/chichi/proj/cub3d/include/libft/ft_putstr_fd.c",
+    "output": "/home/chichi/proj/cub3d/include/libft/ft_putstr_fd.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-g",
+      "-I",
+      ".",
+      "-c",
+      "-o",
+      "ft_split.o",
+      "ft_split.c"
+    ],
+    "directory": "/home/chichi/proj/cub3d/include/libft",
+    "file": "/home/chichi/proj/cub3d/include/libft/ft_split.c",
+    "output": "/home/chichi/proj/cub3d/include/libft/ft_split.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-g",
+      "-I",
+      ".",
+      "-c",
+      "-o",
+      "ft_striteri.o",
+      "ft_striteri.c"
+    ],
+    "directory": "/home/chichi/proj/cub3d/include/libft",
+    "file": "/home/chichi/proj/cub3d/include/libft/ft_striteri.c",
+    "output": "/home/chichi/proj/cub3d/include/libft/ft_striteri.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-g",
+      "-I",
+      ".",
+      "-c",
+      "-o",
+      "ft_strjoin.o",
+      "ft_strjoin.c"
+    ],
+    "directory": "/home/chichi/proj/cub3d/include/libft",
+    "file": "/home/chichi/proj/cub3d/include/libft/ft_strjoin.c",
+    "output": "/home/chichi/proj/cub3d/include/libft/ft_strjoin.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-g",
+      "-I",
+      ".",
+      "-c",
+      "-o",
+      "ft_strmapi.o",
+      "ft_strmapi.c"
+    ],
+    "directory": "/home/chichi/proj/cub3d/include/libft",
+    "file": "/home/chichi/proj/cub3d/include/libft/ft_strmapi.c",
+    "output": "/home/chichi/proj/cub3d/include/libft/ft_strmapi.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-g",
+      "-I",
+      ".",
+      "-c",
+      "-o",
+      "ft_strtrim.o",
+      "ft_strtrim.c"
+    ],
+    "directory": "/home/chichi/proj/cub3d/include/libft",
+    "file": "/home/chichi/proj/cub3d/include/libft/ft_strtrim.c",
+    "output": "/home/chichi/proj/cub3d/include/libft/ft_strtrim.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-g",
+      "-I",
+      ".",
+      "-c",
+      "-o",
+      "ft_substr.o",
+      "ft_substr.c"
+    ],
+    "directory": "/home/chichi/proj/cub3d/include/libft",
+    "file": "/home/chichi/proj/cub3d/include/libft/ft_substr.c",
+    "output": "/home/chichi/proj/cub3d/include/libft/ft_substr.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-g",
+      "-I",
+      ".",
+      "-c",
+      "-o",
+      "ft_printf/ft_printf.o",
+      "ft_printf/ft_printf.c"
+    ],
+    "directory": "/home/chichi/proj/cub3d/include/libft",
+    "file": "/home/chichi/proj/cub3d/include/libft/ft_printf/ft_printf.c",
+    "output": "/home/chichi/proj/cub3d/include/libft/ft_printf/ft_printf.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-g",
+      "-I",
+      ".",
+      "-c",
+      "-o",
+      "ft_printf/ft_putchar.o",
+      "ft_printf/ft_putchar.c"
+    ],
+    "directory": "/home/chichi/proj/cub3d/include/libft",
+    "file": "/home/chichi/proj/cub3d/include/libft/ft_printf/ft_putchar.c",
+    "output": "/home/chichi/proj/cub3d/include/libft/ft_printf/ft_putchar.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-g",
+      "-I",
+      ".",
+      "-c",
+      "-o",
+      "ft_printf/ft_puthex.o",
+      "ft_printf/ft_puthex.c"
+    ],
+    "directory": "/home/chichi/proj/cub3d/include/libft",
+    "file": "/home/chichi/proj/cub3d/include/libft/ft_printf/ft_puthex.c",
+    "output": "/home/chichi/proj/cub3d/include/libft/ft_printf/ft_puthex.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-g",
+      "-I",
+      ".",
+      "-c",
+      "-o",
+      "ft_printf/ft_putnbr.o",
+      "ft_printf/ft_putnbr.c"
+    ],
+    "directory": "/home/chichi/proj/cub3d/include/libft",
+    "file": "/home/chichi/proj/cub3d/include/libft/ft_printf/ft_putnbr.c",
+    "output": "/home/chichi/proj/cub3d/include/libft/ft_printf/ft_putnbr.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-g",
+      "-I",
+      ".",
+      "-c",
+      "-o",
+      "ft_printf/ft_putstr.o",
+      "ft_printf/ft_putstr.c"
+    ],
+    "directory": "/home/chichi/proj/cub3d/include/libft",
+    "file": "/home/chichi/proj/cub3d/include/libft/ft_printf/ft_putstr.c",
+    "output": "/home/chichi/proj/cub3d/include/libft/ft_printf/ft_putstr.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-g",
+      "-I",
+      ".",
+      "-c",
+      "-o",
+      "ft_printf/ft_base.o",
+      "ft_printf/ft_base.c"
+    ],
+    "directory": "/home/chichi/proj/cub3d/include/libft",
+    "file": "/home/chichi/proj/cub3d/include/libft/ft_printf/ft_base.c",
+    "output": "/home/chichi/proj/cub3d/include/libft/ft_printf/ft_base.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-g",
+      "-I",
+      ".",
+      "-c",
+      "-o",
+      "ft_printf/ft_putptr.o",
+      "ft_printf/ft_putptr.c"
+    ],
+    "directory": "/home/chichi/proj/cub3d/include/libft",
+    "file": "/home/chichi/proj/cub3d/include/libft/ft_printf/ft_putptr.c",
+    "output": "/home/chichi/proj/cub3d/include/libft/ft_printf/ft_putptr.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-g",
+      "-I",
+      ".",
+      "-c",
+      "-o",
+      "ft_printf/ft_putint.o",
+      "ft_printf/ft_putint.c"
+    ],
+    "directory": "/home/chichi/proj/cub3d/include/libft",
+    "file": "/home/chichi/proj/cub3d/include/libft/ft_printf/ft_putint.c",
+    "output": "/home/chichi/proj/cub3d/include/libft/ft_printf/ft_putint.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-g",
+      "-I",
+      ".",
+      "-c",
+      "-o",
+      "ft_strnew.o",
+      "ft_strnew.c"
+    ],
+    "directory": "/home/chichi/proj/cub3d/include/libft",
+    "file": "/home/chichi/proj/cub3d/include/libft/ft_strnew.c",
+    "output": "/home/chichi/proj/cub3d/include/libft/ft_strnew.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-g",
+      "-I",
+      ".",
+      "-c",
+      "-o",
+      "ft_strsub.o",
+      "ft_strsub.c"
+    ],
+    "directory": "/home/chichi/proj/cub3d/include/libft",
+    "file": "/home/chichi/proj/cub3d/include/libft/ft_strsub.c",
+    "output": "/home/chichi/proj/cub3d/include/libft/ft_strsub.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-g",
+      "-I",
+      ".",
+      "-c",
+      "-o",
+      "ft_strdel.o",
+      "ft_strdel.c"
+    ],
+    "directory": "/home/chichi/proj/cub3d/include/libft",
+    "file": "/home/chichi/proj/cub3d/include/libft/ft_strdel.c",
+    "output": "/home/chichi/proj/cub3d/include/libft/ft_strdel.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-g",
+      "-I",
+      ".",
+      "-c",
+      "-o",
+      "ft_memdel.o",
+      "ft_memdel.c"
+    ],
+    "directory": "/home/chichi/proj/cub3d/include/libft",
+    "file": "/home/chichi/proj/cub3d/include/libft/ft_memdel.c",
+    "output": "/home/chichi/proj/cub3d/include/libft/ft_memdel.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "main.o",
+      "main.c"
+    ],
+    "directory": "/home/chichi/proj/cub3d",
+    "file": "/home/chichi/proj/cub3d/main.c",
+    "output": "/home/chichi/proj/cub3d/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-I",
+      "include/",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-g",
+      "-o",
+      "cub3d",
+      "main.c"
+    ],
+    "directory": "/home/chichi/proj/cub3d",
+    "file": "/home/chichi/proj/cub3d/main.c",
+    "output": "/home/chichi/proj/cub3d/cub3d"
+  }
+]
